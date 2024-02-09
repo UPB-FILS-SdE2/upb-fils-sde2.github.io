@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Systèmes d\'exploitation 2',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Construisons un langage de programmation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
