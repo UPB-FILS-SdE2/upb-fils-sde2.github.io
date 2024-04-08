@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5104],{7752:e=>{e.exports=JSON.parse('{"title":"Devoir","description":"Les devoirs","slug":"/category/devoir","permalink":"/docs/category/devoir","navigation":{"previous":{"title":"TP 07 - Signaux","permalink":"/docs/tp/07"},"next":{"title":"Devoir 1 - Rustybox","permalink":"/docs/devoir/01"}}}')}}]);
