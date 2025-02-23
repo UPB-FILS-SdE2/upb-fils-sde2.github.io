@@ -26,13 +26,6 @@ Professeur de cours \
 GitHub: [alexandruradovici](https://github.com/alexandruradovici) \
 Email: alexandru.radovici@upb.ro
 
-### Cristiana Andrei
-![Cristiana Andrei](images/cristiana_andrei.jpg)
- 
-Professeur de TP \
-GitHub: [Cristiana959](https://github.com/Cristiana959) \
-Email: cristiana.andrei@wyliodrin.com
-
 ### Adrian Popescu
 ![Adrian Popescu](images/adrian_popescu.jpg)
  
