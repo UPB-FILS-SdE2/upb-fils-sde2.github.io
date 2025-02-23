@@ -55,8 +55,8 @@ Email: Popescu.adrian.constantin98@gmail.com
 |--------|-------------|--------|
 | Tests de cours | Vous passerez un test au début de chaque cours avec des questions du cours précédent. | 2p |
 | Tests de TP | Vous passerez un test au début de chaque laboratoire avec des questions du laboratoire précédent. | 2p |
-| Devoirs | Vous aurez 4 devoirs. | 8p |
-| Examen | L'examen en période de session. | 3p |
+| Devoirs | Vous aurez 4 devoirs. | 7p |
+| Examen | L'examen en période de session. | 4p |
 | **Total** | *Vous avez besoin de 4,5 points pour réussir le cours.* | **15p** |
 
 ## Règles
