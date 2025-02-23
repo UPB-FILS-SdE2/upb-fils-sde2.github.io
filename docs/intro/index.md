@@ -15,7 +15,7 @@ Au cours de ce cours, vous apprendrez comment fonctionnent les systèmes d'explo
 ### Cristiana Andrei
 ![Cristiana Andrei](images/cristiana_andrei.jpg)
  
-Professeur de cours \
+Professeur de cours et TP \
 GitHub: [Cristiana959](https://github.com/Cristiana959) \
 Email: cristiana.andrei@wyliodrin.com
 
