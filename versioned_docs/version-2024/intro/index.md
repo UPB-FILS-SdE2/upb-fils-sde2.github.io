@@ -12,13 +12,6 @@ Au cours de ce cours, vous apprendrez comment fonctionnent les systèmes d'explo
 
 ## Équipe
 
-### Cristiana Andrei
-![Cristiana Andrei](images/cristiana_andrei.jpg)
- 
-Professeur de cours \
-GitHub: [Cristiana959](https://github.com/Cristiana959) \
-Email: cristiana.andrei@wyliodrin.com
-
 ### Alexandru Radovici
 ![Alexandru Radovici](images/alexandru_radovici.jpg)
 
@@ -33,21 +26,15 @@ Professeur de TP \
 GitHub: [Cristiana959](https://github.com/Cristiana959) \
 Email: cristiana.andrei@wyliodrin.com
 
-### Adrian Popescu
-![Adrian Popescu](images/adrian_popescu.jpg)
- 
-Professeur de TP \
-GitHub: [nerodesu017](https://github.com/nerodesu017) \
-Email: Popescu.adrian.constantin98@gmail.com
-
 ## Horaire
 
-| Goupe | Jour | Heure | Salle | Professeur |
-|-------|------|-------|-------|------------|
-| Cours | Lundi | 08 - 10 | EC002 | Cristiana Andrei |
-| 1220 FA 1/2 + 1221 F | Mardi | 08 - 10 | EG 306 | Cristiana Andrei |
-| 1220 FA 2/2 + 1221 F | Mardi | 12 - 14 | EG 206 | Cristiana Andrei |
-| 1220 FB | Mardi | 10 - 12 | EG 306 | Adrian Popescu |
+| Goupe | Jour | Heure | Salle |
+|-------|------|-------|-------|
+| Cours | Lundi | 10 - 12 | PR002 |
+| 1220A 1/2 | Mardi | 8 - 10 | EG 206 |
+| 1220A 2/2 | Mardi | 12 - 14 | EG 206 |
+| 1220B 1/2 | Mardi | 8 - 10 | EG 206 |
+| 1220B 2/2 | Mardi | 12 - 14 | EG 206 |
 
 ## Système de notation
 
