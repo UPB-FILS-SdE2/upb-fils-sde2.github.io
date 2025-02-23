@@ -12,13 +12,6 @@ Au cours de ce cours, vous apprendrez comment fonctionnent les systèmes d'explo
 
 ## Équipe
 
-### Cristiana Andrei
-![Cristiana Andrei](images/cristiana_andrei.jpg)
- 
-Professeur de cours et TP \
-GitHub: [Cristiana959](https://github.com/Cristiana959) \
-Email: cristiana.andrei@wyliodrin.com
-
 ### Alexandru Radovici
 ![Alexandru Radovici](images/alexandru_radovici.jpg)
 
@@ -26,21 +19,22 @@ Professeur de cours \
 GitHub: [alexandruradovici](https://github.com/alexandruradovici) \
 Email: alexandru.radovici@upb.ro
 
-### Adrian Popescu
-![Adrian Popescu](images/adrian_popescu.jpg)
+### Cristiana Andrei
+![Cristiana Andrei](images/cristiana_andrei.jpg)
  
 Professeur de TP \
-GitHub: [nerodesu017](https://github.com/nerodesu017) \
-Email: Popescu.adrian.constantin98@gmail.com
+GitHub: [Cristiana959](https://github.com/Cristiana959) \
+Email: cristiana.andrei@wyliodrin.com
 
 ## Horaire
 
-| Goupe | Jour | Heure | Salle | Professeur |
-|-------|------|-------|-------|------------|
-| Cours | Lundi | 08 - 10 | EC002 | Cristiana Andrei |
-| 1220 FA 1/2 + 1221 F | Mardi | 08 - 10 | EG 306 | Cristiana Andrei |
-| 1220 FA 2/2 + 1221 F | Mardi | 12 - 14 | EG 206 | Cristiana Andrei |
-| 1220 FB | Mardi | 10 - 12 | EG 306 | Adrian Popescu |
+| Goupe | Jour | Heure | Salle |
+|-------|------|-------|-------|
+| Cours | Lundi | 10 - 12 | PR002 |
+| 1220A 1/2 | Mardi | 8 - 10 | EG 206 |
+| 1220A 2/2 | Mardi | 12 - 14 | EG 206 |
+| 1220B 1/2 | Mardi | 8 - 10 | EG 206 |
+| 1220B 2/2 | Mardi | 12 - 14 | EG 206 |
 
 ## Système de notation
 
@@ -48,8 +42,8 @@ Email: Popescu.adrian.constantin98@gmail.com
 |--------|-------------|--------|
 | Tests de cours | Vous passerez un test au début de chaque cours avec des questions du cours précédent. | 2p |
 | Tests de TP | Vous passerez un test au début de chaque laboratoire avec des questions du laboratoire précédent. | 2p |
-| Devoirs | Vous aurez 4 devoirs. | 7p |
-| Examen | L'examen en période de session. | 4p |
+| Devoirs | Vous aurez 4 devoirs. | 8p |
+| Examen | L'examen en période de session. | 3p |
 | **Total** | *Vous avez besoin de 4,5 points pour réussir le cours.* | **15p** |
 
 ## Règles

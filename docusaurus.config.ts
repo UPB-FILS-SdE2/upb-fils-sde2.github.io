@@ -35,6 +35,13 @@ const config: Config = {
       'classic',
       {
         docs: {
+          lastVersion: 'current',
+          versions: {
+            current: {
+              label: '2025',
+              // path: '1.0.0',
+            },
+          },
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -68,6 +75,10 @@ const config: Config = {
         {to: '/docs/category/cours', label: 'Cours', position: 'left'},
         {to: '/docs/category/tp', label: 'TP', position: 'left'},
         {to: '/docs/category/devoir', label: 'Devoir', position: 'left'},
+        {
+          type: 'docsVersionDropdown',
+          position: "right"
+        },
         {
           href: 'https://github.com/UPB-FILS-SdE2/upb-fils-sde2.github.io',
           label: 'GitHub',
