@@ -46,11 +46,10 @@ Email: Popescu.adrian.constantin98@gmail.com
 
 | Partie | Description | Points |
 |--------|-------------|--------|
-| Tests de cours | Vous passerez un test au début de chaque cours avec des questions du cours précédent. | 2p |
-| Tests de TP | Vous passerez un test au début de chaque laboratoire avec des questions du laboratoire précédent. | 2p |
-| Devoirs | Vous aurez 4 devoirs. | 7p |
-| Examen | L'examen en période de session. | 4p |
-| **Total** | *Vous avez besoin de 4,5 points pour réussir le cours.* | **15p** |
+| Tests de cours | Vous passerez un test au début de chaque cours avec des questions du cours précédent. | 5p |
+| Tests de TP | Vous passerez un test au début de chaque laboratoire avec des questions du laboratoire précédent. | 3p |
+| Examen | L'examen en période de session. | 2p |
+| **Total** | *Vous avez besoin de 5 points pour réussir le cours.* | **15p** |
 
 ## Règles
 
@@ -61,8 +60,7 @@ Email: Popescu.adrian.constantin98@gmail.com
 5. Vous pouvez être en retard de 15 minutes maximum au TP
 6. Les étudiants qui rattrapent la matière peuvent pas participer aux TPs seulement s'il y a des places libres. Afin d'obtenir des points, ils doivent résoudre des devoirs et passer l'examen final
 7. Vous aurez besoin d'un compte [github](https://www.github.com) avec votre nom complet et une vraie photo de profil.
-8. Pour 2 devoirs copiés (d'autres collègues ou des étudiants des années passées), vous allez échouer la matière
-9. Vous avez besoin d'au moins 4.5 points pour réussir l'examen
+8. Vous avez besoin d'au moins 5 points pour réussir l'examen
  
 ## Bibliographie
 
